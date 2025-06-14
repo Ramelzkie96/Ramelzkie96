@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ramel Gulane</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramelzkie96&label=PROFILE+VIEWS&color=blue" alt="Profile Views"/>
-</p>
-
 <h3 align="center">A passionate Web Developer who loves building dynamic and responsive websites</h3>
 
 
