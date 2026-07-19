@@ -8,7 +8,7 @@
 - 🌱 I’m learning **Next.js**, **Node JS**, and deeper **React.js**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Django, PHP**
 - 📫 Reach me at: **pitad21.gulaneramel@gmail.com**
-- 🧰 Portfolio: [Visit My Portfolio](https://portfolio-ramel.netlify.app/portfolio)
+- 🧰 Portfolio: [Visit My Portfolio](https://portfolio-ramel.netlify.app/)
 
 ---
 
